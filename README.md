@@ -10,15 +10,14 @@
 <a href="https://medium.com/@akshitdayal99/" target="_blank" align="left">
   <img width="30" height="30" src="assets/medium.png" alt="medium"/>
 </a>
-<br/>
-
-<img width="20" height="20" src="assets/gmail.png" alt="email" />
-📥 <a href="mailto:akshitdayal99@gmail.com" target="_blank">akshitdayal99@gmail.com</a>
 
 <br/>
 
+<div>📥 <a href="mailto:akshitdayal99@gmail.com" target="_blank">akshitdayal99@gmail.com</a></div>
+
+<br/>
 <a href="https://akrypt.github.io" target="_blank">
-  <img src="assets/mywebbutton.png" alt="Mywebsite Button" width="30%"/>
+  <img src="assets/2.png" alt="Mywebsite Button" width="25%"/>
 </a>
 
 
