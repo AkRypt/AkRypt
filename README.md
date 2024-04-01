@@ -1,23 +1,27 @@
-<p align="center"><img src="assets/github_banner.png" alt="my_banner"/></p>
+<p align="center"><img src="assets/ak_banner.png" alt="my_banner"/></p>
 
 <h1 align="center">🐺 Hi, I’m Akshit Dayal </h1>
 <p align="center"> <strong>🖥️ Full-Stack Developer</strong> </p>
 
 <h3>🤝 Connect with me:</h3>
+
 <a href="https://www.linkedin.com/in/akshit-u/" target="_blank">
-  <img width="50" height="50" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
+  <img width="40" height="40" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
 </a>
+
 <a href="https://medium.com/@akshitdayal99/" target="_blank">
-<!--   <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/medium-monogram--v1.png" alt="medium-monogram--v1"/> -->
-  My Medium
+  <img width="40" height="40" src="assets/medium.png" alt="medium"/>
 </a>
+<p>
+  <img width="40" height="40" src="assets/gmail.png" alt="email" />
+  <span>akshitdayal99@gmail.com</span>
+</p>
 <br/>
 <a href="https://akrypt.github.io" target="_blank">
   My Website
 </a>
 
 <p>- 👀 I’m currently interested and looking for a Software Developer role.</p>
-<p>- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/akshit-u/ </p>
 
 <p>
   I'm a Software Engineer with MS in CS at NJIT.
